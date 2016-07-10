@@ -1,6 +1,2 @@
 Change 1
-<<<<<<< HEAD
-change 2
-=======
 chane 2 in github
->>>>>>> f5bc2d24610b22722bf3a5dbcf34c892a8363eec
